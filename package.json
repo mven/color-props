@@ -1,0 +1,28 @@
+{
+  "name": "color-props",
+  "version": "0.0.1",
+  "description": "A utility that returns hex/rgb/hsl properties of a color",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mven/color-props.git"
+  },
+  "keywords": [
+    "colors",
+    "transform"
+  ],
+  "author": "Michael Vendivel <michael@vendivel.com> (http://vendivel.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mven/color-props/issues"
+  },
+  "homepage": "https://github.com/mven/color-props#readme"
+}
