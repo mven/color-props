@@ -35,7 +35,13 @@ var color = colorProps('#abcdef');
 
 ### Supported color inputs
 
-color-props also supports the following for inputs:
+color-props supports the following for inputs:
+
+Hexadecimal
+
+```javascript
+var color = colorProps('#abcdef');
+```
 
 Shorthand Hex
 
