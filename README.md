@@ -1,3 +1,5 @@
+<img src="https://cloud.githubusercontent.com/assets/940113/26662605/c0652612-464a-11e7-8f33-e1a89cf34840.png"/>
+
 # color-props
 
 A utility that returns hex/rgb/hsl properties of a color
